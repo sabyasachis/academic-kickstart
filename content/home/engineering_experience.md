@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 41  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
 title = "Engineering Experience"
 subtitle = ""
@@ -24,5 +24,8 @@ date_format = "Jan 2006"
   location = "Bangalore"
   date_start = "2016-08-01"
   date_end = "2018-05-31"
-  description = """Owned display module on all self driving platforms and worked on Xavier chip bringup. Was Person in Charge (PIC) for device tree (DT) on all platforms."""
+  description = """
+  * Owned display module on all self driving platforms and worked on Xavier chip bringup.
+  * Was Person in Charge (PIC) for device tree (DT) on all platforms.
+  """
 +++

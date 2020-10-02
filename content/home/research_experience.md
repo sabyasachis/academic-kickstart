@@ -19,27 +19,29 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Associate"
-  company = "Machine Learning Lab with Robert Bosch Centre for Cyber Physical Systems, Indian Institute of Science, Bangalore"
-  company_url = "https://cps.iisc.ac.in/"
+  company = "Machine Learning Lab, Indian Institute of Science, Bangalore"
+  company_url = "https://mllabiisc.github.io/"
   location = "Bangalore"
   date_start = "2019-02-18"
   date_end = ""
   description = """
-  * Adapting SLAM in dynamic environments for lifelong-SLAM.
-  * Part of [Ati Motors](https://www.atimotors.com/) Autonomous Vehicles Project for building autonomous cargo vehicles for factories.
+  I broadly work on research projects on unsupervised learning (generative models, disentanglement, domain adaptation), explainable models, AI in healthcare (disease classification/segmentation) and robotics (LiDAR, SLAM). Some of these projects are in collaboration with Tata Motors, Ati Motors and Niramai.
   """
+#  * Adapting SLAM in dynamic environments for lifelong-SLAM.
+#  * Part of [Ati Motors](https://www.atimotors.com/) Autonomous Vehicles Project for building autonomous cargo vehicles for factories.
+#  """
 
-[[experience]]
-  title = "Research Associate"
-  company = "Machine Learning Lab with Department of Computer Science and Automation, Indian Institute of Science, Bangalore"
-  company_url = "https://www.csa.iisc.ac.in/"
-  location = "Bangalore"
-  date_start = "2019-03-01"
-  date_end = ""
-  description = """
-  * Building real time and frugal Advanced Driver Assistance Systems (ADAS) for driving on Indian urban roads.
-  * Part of [Tata Motors](https://www.tatamotors.com/) ADAS project for building ADAS for Indian roads.
-  """
+#[[experience]]
+#  title = "Research Associate"
+#  company = "Machine Learning Lab with Department of Computer Science and Automation, Indian Institute of Science, Bangalore"
+#  company_url = "https://www.csa.iisc.ac.in/"
+#  location = "Bangalore"
+#  date_start = "2019-03-01"
+#  date_end = ""
+#  description = """
+#  * Building real time and frugal Advanced Driver Assistance Systems (ADAS) for driving on Indian urban roads.
+#  * Part of [Tata Motors](https://www.tatamotors.com/) ADAS project for building ADAS for Indian roads.
+#  """
 
 [[experience]]
   title = "Deep Learning Engineer"
@@ -49,10 +51,12 @@ date_format = "Jan 2006"
   date_start = "2018-06-04"
   date_end = "2019-02-15"
   description = """
-  * Built extreme text classifiers for eCommerce Hierarchical Product Classification.
-  * Built keyword detectors and text classifiers for Brand and Sub-Brand Detection.
-  * Also built a seq2seq based character level text normalizer for Brand Normalization.
+  I broadly worked on NLP research problems like extreme text classification and text normalization. I also worked on object and text detection on product images.
   """
+#  * Built extreme text classifiers for eCommerce Hierarchical Product Classification.
+#  * Built keyword detectors and text classifiers for Brand and Sub-Brand Detection.
+#  * Also built a seq2seq based character level text normalizer for Brand Normalization.
+#  """
 
 [[experience]]
   title = "Research Student"
@@ -62,9 +66,11 @@ date_format = "Jan 2006"
   date_start = "2015-05-15"
   date_end = "2016-07-31"
   description = """
-  * Thesis: "Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics".
-  * We proposed partitioning-based task mapping algorithm for reducing inter-process communication times on dragonfly network based Cray XC40 supercomputer.
+  For my master’s thesis, I worked on reducing inter-process communication times for molecular dynamics applications on Cray XC40 supercomputer.
   """
+#  * Thesis: "Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics".
+#  * We proposed partitioning-based task mapping algorithm for reducing inter-process communication times on dragonfly network based Cray XC40 supercomputer.
+#  """
 
 [[experience]]
   title = "Research Student"
@@ -74,8 +80,10 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2015-05-14"
   description = """
-  * Visualized CNN space of images and Tested effect of non-linearity of CNNs using confusion matrix
-  * Generate a hierarchical clustering of object classes based on visual similarity.
+  I worked on extracting semantic context in CNNs.
   """
+#  * Visualized CNN space of images and Tested effect of non-linearity of CNNs using confusion matrix
+#  * Generate a hierarchical clustering of object classes based on visual similarity.
+#  """
 
 +++

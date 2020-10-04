@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "3D/LiDAR", "Generative Modelling", "Disentanglement"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -75,7 +75,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  # caption = "Image credit: **Juan David Leongómez 2020**"
+  caption = "Image adapted from [VON](https://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

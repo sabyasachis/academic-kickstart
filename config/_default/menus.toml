@@ -6,31 +6,73 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 20
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  identifier = "experience"
+  name = "Experience"
+  weight = 40
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Research Experience"
+  url = "#research_experience"
+  weight = 40
+  parent = "experience"
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "Engineering Experience"
+  url = "#engineering_experience"
+  weight = 50
+  parent = "experience"
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 60
+[[main]]
+  identifier = "research_work"
+  name = "Research"
+  weight = 55
+
+[[main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 55
+  parent = "research_work"
+
+[[main]]
+  name = "Research Works"
+  url = "#publications"
+  weight = 60
+  parent = "research_work"
+
+[[main]]
+  identifier = "content"
+  name = "Other Content"
+  weight = 80
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 80
+  parent = "content"
+
+[[main]]
+  name = "Blogs"
+  url = "#posts"
+  weight = 90
+  parent = "content"
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 100
+  parent = "content"
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 130
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 70
+  weight = 150

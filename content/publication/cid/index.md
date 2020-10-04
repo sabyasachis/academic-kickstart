@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "Explainability", "Generative Modelling", "Disentanglement"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -75,7 +75,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Adapted from *ACE and TCAV*"
+  caption = "Images adapted from [ACE](https://arxiv.org/abs/1902.03129) and [TCAV](https://beenkim.github.io/slides/TCAV_ICML_pdf.pdf)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

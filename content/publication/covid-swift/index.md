@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "AI for healthcare", "Segmentation", "Classification", "Detection", "Domain Adaptation", "Niramai"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

@@ -34,7 +34,7 @@ featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "3D/LiDAR", "Robotics", "SLAM", "Domain Adaptation", "Segmentation", "Ati"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -59,14 +59,14 @@ url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://drive.google.com/file/d/1L0p8RsP6fvAC3B7lIC15_nRaqho-eFq5/view?usp=sharing"
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Supplementary Material", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-61289-4/MediaObjects/41598_2020_61289_MOESM1_ESM.pdf"},
-#{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
+links = [{name = "Supplementary Material", url = "https://drive.google.com/file/d/1bIE4VWvE3NIP2Lht8FrOLDDGNCHAroZY/view?usp=sharing"}]
+# ,{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

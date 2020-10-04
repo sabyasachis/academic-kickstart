@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "Scene Flow", "3D/LiDAR", "Robotics", "SLAM", "Segmentation", "Ati"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -75,7 +75,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Adapted from *Just Go with the Flow*"
+  caption = "Image adapted from [Just Go with the Flow](https://arxiv.org/abs/1912.00497)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

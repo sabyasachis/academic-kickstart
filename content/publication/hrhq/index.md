@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "Disentanglement"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -75,7 +75,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Adapted from *VQ-VAE 2*"
+  caption = "Image adapted from [VQ-VAE 2](https://arxiv.org/abs/1906.00446)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

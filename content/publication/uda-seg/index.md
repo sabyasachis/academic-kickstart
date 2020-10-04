@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "AI for healthcare", "Segmentation", "Domain Adaptation", "Niramai"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -75,7 +75,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Adapted from *SeUDA*"
+  caption = "Image adapted from [SeUDA](https://arxiv.org/abs/1806.00600)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

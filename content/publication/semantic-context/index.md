@@ -3,7 +3,7 @@ title = "Establishing Semantic relationships among object classes using Deep Net
 date = 2015-05-05T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Vineetha Kondameedi", "R. Venkatesh Babu", "Partha Pratim Talukdar"]
+authors = ["admin", "Vineetha Kondameedi", "Srinivas Kruthiventi S S", "R. Venkatesh Babu", "Partha Pratim Talukdar"]
 
 # Publication type.
 # Legend:
@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Deep Learning", "Computer Vision", "Explainability", "Classification"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

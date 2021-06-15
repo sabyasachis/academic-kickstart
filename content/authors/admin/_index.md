@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Project Associate (Research)
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:

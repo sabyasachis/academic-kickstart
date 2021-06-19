@@ -1,9 +1,9 @@
 +++
-title = "Unsupervised Domain Adaption for cross domain Lung Segmentation on Chest Xray Images"
-date = 2020-10-02T00:00:00
+title = "Towards Understanding Domain Adaptation quantitatively"
+date = 2021-06-08T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Akshaj Verma", "admin", "Santosh Shet", "Chiranjib Bhattacharyya"]
+authors = ["Akshaj Verma", "admin", "Chiranjib Bhattacharyya"]
 
 # Publication type.
 # Legend:
@@ -82,5 +82,16 @@ math = false
   focal_point = "BottomLeft"
 
 +++
+
+In this project, we seek to address the following problems in domain adaptation (DA):
+
+1) How can we meaningfully quantify or characterize the domain gap between two datasets from different domains?
+2) What practices during model training/testing help/hinder DA?
+3) How does domain adaptation change in the following settings:
+ - Supervision
+ - Domain gap
+ - Model architecture
+ - Loss function
+4) Can we perform AutoDA or Automatic Domain adaptation for any two datasets using the above information?
 
 This is an ongoing research project. For further details, please contact me.

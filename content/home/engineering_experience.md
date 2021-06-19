@@ -27,6 +27,8 @@ date_format = "Jan 2006"
   description = """
   Supervisors :  [Raghavendra VK](https://www.linkedin.com/in/raghavendra-vk-b460849/) and [Ravi Chandra SV](https://www.linkedin.com/in/ravichandrasv/)
 
-  I owned display module on all self driving platforms, worked on Xavier chip bringup and I was also the Person in Charge (PIC) for device tree (DT) on all platforms.
+  - Owned display module and was Person-In-Charge (PIC) for Device Tree (DT) on all self-driving embedded-system platforms.
+  - Led Xavier Chip Bringup for display and device tree modules.
+  - Mentored software interns.
   """
 +++

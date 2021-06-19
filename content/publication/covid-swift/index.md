@@ -1,6 +1,6 @@
 +++
-title = "COVID-SWIFT : Simple Whatsapp based x-ray Image interpretation at your Finger Tips for potential COVID19 patients"
-date = 2020-10-01T00:00:00
+title = "XraySetu : AI driven Xray Interpretation for Doctors via WhatsApp"
+date = 2021-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["admin", "Suchit Jain", "Santosh Shet", "Siva Teja Kakileti", "Chiranjib Bhattacharyya", "Geetha Manjunath"]
@@ -17,11 +17,11 @@ authors = ["admin", "Suchit Jain", "Santosh Shet", "Siva Teja Kakileti", "Chiran
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "BMC medical imaging (journal submission)"
+publication = "The Journal of the American Medical Association (journal submission)"
 publication_short = ""
 
 # Abstract.
-abstract = "We use state of art deep learning models to provide with likely COVID-19 and Pneumonia predictions. Our aim is to identify affected lung regions that can help doctors understand the severity of illness of their patients. COVID-SWIFT (Simple Whatsapp based Image interpretation at your Finger Tips) is a free Whatsapp based service to provide with swift diagnosis of potential COVID19 patients by analyzing Chest X-Ray images. We are running a small scale pilot where interested doctors within minutes, can receive a machine generated X-ray Report (as the one shown below) on sending us chest X-Ray of suspicious patients."
+abstract = "XraySetu is a free Whatsapp based service to provide a swift diagnosis of potential COVID19 patients by analyzing Chest X-Ray images. Our state-of-the-art deep learning model generates a report containing predictions for COVID-19 and 14 other lung abnormalities with interpretable semantic markings on chest X-Ray. This can help doctors understand the severity of illness of their patients. Our model is trained using Multi-Task Learning on multiple chest X-Ray datasets by NIH, RSNA, etc. We ran a small scale pilot for the last 10 months, where interested doctors within minutes, could receive a machine generated X-ray Report on sending us chest X-Ray of suspicious patients. Previously known as COVID-SWIFT, it has now been launched as XraySetu, in collaboration between IISc, Niramai, and ARTPARK. Xraysetu is quick and simple for busy doctors to use. XraySetu allows doctors in rural areas to plan early intervention for their patients by simply taking a picture of their Xray and sending it over via Whatsapp. We believe that this could be the model for the future of Indian healthcare, accessible to everyone wherever one might be."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -53,13 +53,13 @@ tags = ["Deep Learning", "Computer Vision", "AI for healthcare", "Segmentation",
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1RYLcT2skosqTNEnSorT7-huIPZ6swerw/view?usp=sharing"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "COVID_SWIFT_Abstract.pdf"
 url_code = ""
 url_dataset = ""
-url_project = "https://mllabiisc.github.io/covid-swift/"
-url_slides = ""
-url_video = ""
+url_project = "https://mllab.csa.iisc.ac.in/covid-swift/"
+url_slides = "https://docs.google.com/presentation/d/1zY2I3-5TxEQk66COEIsi-2x5i2QSrX-Pi6JHcTurRYw/edit?usp=sharing"
+url_video = "https://www.youtube.com/watch?v=h1bxY92rjM8&ab_channel=ARTPARK"
 url_poster = ""
 url_source = ""
 
@@ -67,6 +67,7 @@ url_source = ""
 # For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Supplementary Material", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-61289-4/MediaObjects/41598_2020_61289_MOESM1_ESM.pdf"},
 #{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
+links = [{name="Demo", url="https://www.xraysetu.com/"}, {name="Open Research Problems", url="https://docs.google.com/presentation/d/1X8zQS0UKfs83aF3n0PSuH3rSWRqMe86qVi4X0NMWKLE/edit?usp=sharing"}, {name="Twitter Thread", url="https://twitter.com/saby_tweets/status/1401260391166930944"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -76,9 +77,12 @@ math = false
 [image]
   # Caption (optional)
   # caption = "Image credit: **Juan David Leongómez 2020**"
+  caption = "Report generated for given chest X-Ray: Page 1) Patient report. Page 2) Semantic markings on Chest X-Ray. Page 3) Disease-wise heatmaps."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "BottomLeft"
 
 +++
+
+We will soon be sharing our paper with further details.

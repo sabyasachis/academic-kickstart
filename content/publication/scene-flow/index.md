@@ -3,7 +3,7 @@ title = "An Approach For Accurate Sceneflow Prediction For LiDAR-based Sensors."
 date = 2020-07-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dhiraj Shanbag", "admin", "Jayant Priyadarshi", "Chiranjib Bhattacharyya", "Vinay V"]
+authors = ["Dhiraj Shanbag", "admin", "Chiranjib Bhattacharyya", "Vinay V"]
 
 # Publication type.
 # Legend:
@@ -53,12 +53,12 @@ tags = ["Deep Learning", "Computer Vision", "Scene Flow", "3D/LiDAR", "Robotics"
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1nhEv3e84P64l1vQuepNuYyq6h3I0V8i5/view?usp=sharing"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "Scene_Flow.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = ""
+url_slides = "https://docs.google.com/presentation/d/1yQiQhV0SqEosiRfI2gspq7FOkGF44gtxzEOrlxzskQg/edit?usp=sharing"
 url_video = ""
 url_poster = ""
 url_source = ""

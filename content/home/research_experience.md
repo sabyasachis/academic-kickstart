@@ -17,33 +17,39 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+# [[experience]]
+#   title = "Research Assistant"
+#   company = "MILA and Université Laval"
+#   company_url = "https://mila.quebec/en/"
+#   location = "Quebec City"
+#   date_start = "2021-08-30"
+#   date_end = ""
+#   description = """
+#   Advisor : [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/english.html), [MILA](https://mila.quebec/en/) & [Université Laval](https://www.ulaval.ca/en)
+#   Co-Advisor : [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), [INRIA](https://www.inria.fr/en) & [Université Côte d'Azur](https://univ-cotedazur.eu/)
+
+#   - Broadly work on developing robust machine learning systems for autonomous driving systems.
+#   - Funded by [DEEL](https://www.deel.ai/) project.
+#   """
+
 [[experience]]
   title = "Research Associate"
   company = "Machine Learning Lab, Indian Institute of Science, Bangalore"
-  company_url = "https://mllabiisc.github.io/"
+  company_url = "https://mllab.csa.iisc.ac.in/"
   location = "Bangalore"
   date_start = "2019-02-18"
   date_end = ""
   description = """
-  Advisor: [Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/)
+  Advisor : [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/)
 
-  I broadly work on research projects on unsupervised learning (generative models, disentanglement, domain adaptation), explainable models, AI in healthcare (disease classification/segmentation) and robotics (LiDAR, SLAM). I have collaborated with [Soma Biswas](http://www.ee.iisc.ac.in/people/faculty/soma.biswas/index.html) and [Vinay V](https://scholar.google.co.in/citations?user=LF3QB7YAAAAJ&hl=en) for some of these projects. Most of these projects are funded by [Tata Motors](https://www.tatamotors.com/), [Ati Motors](https://www.atimotors.com/) and [Niramai](https://www.niramai.com/).
+  - Broadly work on unsupervised learning (generative models, disentanglement, domain adaptation), explainable models, AI in healthcare (disease classification/segmentation), and robotics (LiDAR, SLAM).
+  - Led and deployed research projects like [DSLR](https://dslrproject.github.io/dslr/) on a self-driving robot and [XraySetu](https://www.xraysetu.com/), an Xray based automatic report generation tool for doctors.
+  - Collaborate with [Prof. Soma Biswas](http://www.ee.iisc.ac.in/people/faculty/soma.biswas/index.html), [Dr. Vinay V](https://scholar.google.co.in/citations?user=LF3QB7YAAAAJ&hl=en), and [Dr. Geetha Manjunath](https://scholar.google.co.in/citations?user=4kBTdNgAAAAJ&hl=en) for some of these projects.
+  - Most of these projects are funded by [Tata Motors](https://www.tatamotors.com/), [Ati Motors](https://www.atimotors.com/), [Niramai](https://www.niramai.com/), and [ARTPARK](https://www.artpark.in/).
+  - Conduct and  deliver talks on latest machine learning and autonomous navigation research papers. ([youtube](https://www.youtube.com/playlist?list=PLbBjZEwyU7W3lb0U0ZRA95QoKHrh4shX2))
+  - Work with Project Associates, Masters, and PhD students. Also, mentor several research interns.
   """
-#  * Adapting SLAM in dynamic environments for lifelong-SLAM.
-#  * Part of [Ati Motors](https://www.atimotors.com/) Autonomous Vehicles Project for building autonomous cargo vehicles for factories.
-#  """
-
-#[[experience]]
-#  title = "Research Associate"
-#  company = "Machine Learning Lab with Department of Computer Science and Automation, Indian Institute of Science, Bangalore"
-#  company_url = "https://www.csa.iisc.ac.in/"
-#  location = "Bangalore"
-#  date_start = "2019-03-01"
-#  date_end = ""
-#  description = """
-#  * Building real time and frugal Advanced Driver Assistance Systems (ADAS) for driving on Indian urban roads.
-#  * Part of [Tata Motors](https://www.tatamotors.com/) ADAS project for building ADAS for Indian roads.
-#  """
 
 [[experience]]
   title = "Deep Learning Engineer"
@@ -55,7 +61,11 @@ date_format = "Jan 2006"
   description = """
   Supervisor :  [Latha Iyer](https://www.linkedin.com/in/lathaiyer/) (Machine Learning R&D group)
 
-  I broadly worked on NLP research problems like extreme text classification and text normalization. I also worked on object and text detection on product images.
+  - Worked on NLP research problems like extreme text classification and text normalization.
+  - Led and deployed brand-name text-normalization project for [Walmart US](https://www.walmart.com/).
+  - Also, worked on object and text detection on product images.
+  - Conducted and taught weekly sessionson latest deep learning research and engineering pipelines.
+  - Mentored software engineers and interns.
   """
 #  * Built extreme text classifiers for eCommerce Hierarchical Product Classification.
 #  * Built keyword detectors and text classifiers for Brand and Sub-Brand Detection.
@@ -70,9 +80,10 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
   date_end = "2016-07-31"
   description = """
-  Advisor :  [Sathish S. Vadhiyar](http://cds.iisc.ac.in/faculty/vss/)
+  Advisor :  [Prof. Sathish S. Vadhiyar](http://cds.iisc.ac.in/faculty/vss/)
 
-  For my master's thesis, I proposed a novel hierarcical partitioning-based task mapping algorithm which resulted in about 40% reduction in communication times on molecular dynamics benchmark datasets on Cray XC40 supercomputer.
+  - Proposed a novel hierarchical partitioning-based task mapping algorithm which resulted in about 40% reduction in communication times on molecular dynamics benchmark datasets on Cray XC40 supercomputer.
+  - Awarded distinction for my masters’ thesis.
   """
 #  * Thesis: "Hierarchical Task Mapping on Dragonfly topology for scaling Molecular Dynamics".
 #  * We proposed partitioning-based task mapping algorithm for reducing inter-process communication times on dragonfly network based Cray XC40 supercomputer.
@@ -86,7 +97,10 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
   date_end = "2014-07-30"
   description = """
-  I worked on extracting semantic context in CNNs with [R. Venkatesh  Babu](http://cds.iisc.ac.in/faculty/venky/) and [Partha Pratim Talukdar](http://talukdar.net/), built a hybrid parallel implementation of OpenMP and CUDA for Travelling Salesman Problem with [Sathish S. Vadhiyar](http://cds.iisc.ac.in/faculty/vss/) and worked on optimal diet problem project with [Phaneendra K. Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/).
+
+  - Worked on extracting semantic context in CNNs with [Prof. R. Venkatesh Babu](http://cds.iisc.ac.in/faculty/venky/) and [Prof. Partha Pratim Talukdar](http://talukdar.net/).
+  - Built a hybrid parallel implementation of OpenMP and CUDA for Travelling Salesman Problem with [Prof. Sathish S. Vadhiyar](http://cds.iisc.ac.in/faculty/vss/).
+  - Worked on an optimal diet problem project with [Prof. Phaneendra K. Yalavarthy](http://cds.iisc.ac.in/faculty/yalavarthy/).
   """
 #  * Visualized CNN space of images and Tested effect of non-linearity of CNNs using confusion matrix
 #  * Generate a hierarchical clustering of object classes based on visual similarity.

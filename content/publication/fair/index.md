@@ -53,8 +53,8 @@ tags = ["Deep Learning", "Computer Vision", "ADAS", "Detection", "Segmentation",
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1-YK7Jwrp9npHlbu-SKpPlWnyTeitD7nP/view?usp=sharing"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "FAIR_ADAS.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -82,3 +82,5 @@ math = false
   focal_point = "BottomLeft"
 
 +++
+
+For more information on this project, or to get access to code and datasets used in this project, please get in touch with me or one of the authors.

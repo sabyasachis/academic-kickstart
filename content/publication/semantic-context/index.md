@@ -53,8 +53,8 @@ tags = ["Deep Learning", "Computer Vision", "Explainability", "Classification"]
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1LoaKsuzwM_6cKSCKEfU-1OodPkSn-x7f/view?usp=sharing"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "Semantic_Context.pdf"
 url_code = "https://github.com/sabyasachis/semantic-context-in-cnn"
 url_dataset = ""
 url_project = ""

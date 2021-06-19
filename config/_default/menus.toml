@@ -9,6 +9,11 @@
   weight = 20
 
 [[main]]
+  name = "News"
+  url = "#recent_news"
+  weight = 30
+
+[[main]]
   identifier = "experience"
   name = "Experience"
   weight = 40

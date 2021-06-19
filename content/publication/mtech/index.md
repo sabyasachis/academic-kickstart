@@ -14,7 +14,7 @@ authors = ["admin", "Sathish S. Vadhiyar"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["5"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Master's Thesis"
@@ -53,11 +53,11 @@ tags = ["Parallel Progromming", "MPI", "Molecular Dynamics"]
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1ldhK5Sejsc5kUBU3xJO1fvSvty0Ezps9/view?usp=sharing"
-url_preprint = ""
+url_pdf = ""
+url_preprint = "Mtech_Thesis_Report.pdf"
 url_code = ""
 url_dataset = ""
-url_project = "http://scholar.google.com/scholar?cluster=4824188381298024934&hl=en&oi=scholarr"
+url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -67,6 +67,7 @@ url_source = ""
 # For multiple links, use the form `[{...}, {...}, {...}]`.
 # links = [{name = "Supplementary Material", url = "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-61289-4/MediaObjects/41598_2020_61289_MOESM1_ESM.pdf"},
 #{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
+links = [{name="gScholar", url="http://scholar.google.com/scholar?cluster=4824188381298024934&hl=en&oi=scholarr"}, {name="Thesis", url="Mtech_Thesis.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false

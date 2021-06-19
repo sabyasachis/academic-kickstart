@@ -1,6 +1,6 @@
 +++
 title = "DSLR : Dynamic to Static LiDAR scan Reconstruction using adversarially trained autoencoder"
-date = 2020-09-01T00:00:00
+date = 2021-02-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Prashant Kumar", "admin", "Vanshil Shah", "Vineetha Kondameedi", "Abhinav Jain", "Akshaj Verma", "Chiranjib Bhattacharyya", "Vinay V"]
@@ -17,11 +17,11 @@ authors = ["Prashant Kumar", "admin", "Vanshil Shah", "Vineetha Kondameedi", "Ab
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "AAAI 2021 (conference submission)"
+publication = "AAAI 2021"
 publication_short = ""
 
 # Abstract.
-abstract = "Uncovering the static environment in presence of dynamic objects e.g vehicles, pedestrians, is essential for autonomous navigation. While this problem of dynamic to static translation (DST) has been recently explored for images and point cloud data, no work has been attempted to solve DST for LiDAR scans. We adapt non-LIDAR based DST methods and existing 3D reconstruction based methods for DST on LiDAR scan and show that they perform sub-optimally. We hypothesize that this poor performance can be attributed to the reasons that range image based models perform superior to point cloud based models and the adapted adversarial methods work directly on pixel/point space instead of latent space. To address the above challenges, we propose DSLR, which works on range image based LiDAR data and uses an adversarially trained auto encoder via an input pair based discriminator. DSLR uses an adversarial loss to learn DST mapping on latent space instead of range image space. DSLR is also the first solution for DST that generates static scan without using any  segmentation information which is tedious to manually annotate for new environment. Additionally, we propose a novel data collection algorithm to extract corresponding static-dynamic pairs from random runs. DSLR gives state of the art performance on simulated and real world datasets and also shows at least 4x improvement on Chamfer distance. We demonstrate the potential of our results by showing that DSLR is the only practically viable model which has its reconstruction quality falling within the tolerable limits for autonomous navigation based downstream tasks like SLAM in dynamic environments."
+abstract = "Accurate reconstruction of static environments from LiDAR scans of scenes containing dynamic objects, which we refer to as Dynamic to Static Translation (DST), is an important area of research in Autonomous Navigation. This problem has been recently explored for visual SLAM, but to the best of our knowledge no work has been attempted to address DST for LiDAR scans. The problem is of critical importance due to wide-spread adoption of LiDAR in Autonomous Vehicles. We show that state-of the art methods developed for the visual domain when adapted for LiDAR scans perform poorly. We develop DSLR, a deep generative model which learns a mapping between dynamic scan to its static counterpart through an adversarially trained autoencoder. Our model yields the first solution for DST on LiDAR that generates static scans without using explicit segmentation labels. DSLR cannot always be applied to real world data due to lack of paired dynamic-static scans. Using Unsupervised Domain Adaptation, we propose DSLR-UDA for transfer to real world data and experimentally show that this performs well in real world settings. Additionally, if segmentation information is available, we extend DSLR to DSLR-Seg to further improve the reconstruction quality. DSLR gives the state of the art performance on simulated and real-world datasets and also shows at least 4x improvement. We show that DSLR, unlike the existing baselines, is a practically viable model with its reconstruction quality within the tolerable limits for tasks pertaining to autonomous navigation like SLAM in dynamic environments."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -53,19 +53,19 @@ tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "3D/LiDAR", 
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "https://drive.google.com/file/d/1rw9E18UyXAH2mDCkLtK6CFpk8ftRIF0c/view?usp=sharing"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = "https://drive.google.com/file/d/1L0p8RsP6fvAC3B7lIC15_nRaqho-eFq5/view?usp=sharing"
-url_poster = ""
+url_pdf = "DSLR_paper.pdf"
+url_preprint = "https://arxiv.org/abs/2105.12774"
+url_code = "https://github.com/dslrproject/dslr/"
+url_dataset = "https://github.com/dslrproject/dslr/tree/master/Data"
+url_project = "https://dslrproject.github.io/dslr/"
+url_slides = "DSLR_slides.pdf"
+url_video = "https://www.youtube.com/watch?v=Mi8DNw6F5Mk&t=1s&ab_channel=PRASHANTKUMARPRASHANTKUMAR"
+url_poster = "DSLR_poster.pdf"
 url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Supplementary Material", url = "https://drive.google.com/file/d/1bIE4VWvE3NIP2Lht8FrOLDDGNCHAroZY/view?usp=sharing"}]
+links = [{name = "Appendix PDF", url = "DSLR_appendix.pdf"}, {name="AAAI Conference", url="https://ojs.aaai.org/index.php/AAAI/article/view/16278"}, {name="Results Video", url="https://www.youtube.com/watch?v=xj_JA_Xk-xM&ab_channel=SabyasachiSahoo"}, {name="Teaser Video", url="https://www.youtube.com/watch?v=hHgiC0m5ee0&t=1s"}, {name="Twitter Thread", url="https://twitter.com/saby_tweets/status/1354064595665571840"}]
 # ,{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)

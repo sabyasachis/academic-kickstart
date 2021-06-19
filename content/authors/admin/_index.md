@@ -33,9 +33,9 @@ interests:
 
 education:
   courses:
-  - course: Doctor of Philosophy
-    institution: MILA & Université Laval
-    year: 2021 - Present
+  # - course: Doctor of Philosophy
+  #   institution: MILA & Université Laval
+  #   year: 2021 - Present
   - course: Master of Technology
     institution: Indian Institute of Science, Bangalore
     year: 2014 - 2016

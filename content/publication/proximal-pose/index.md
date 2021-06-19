@@ -1,5 +1,5 @@
 +++
-title = "Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs."
+title = "Proximal pose search for adapting SLAM in dynamic environments on slow moving UGVs"
 date = 2019-07-02T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -21,7 +21,7 @@ publication = "3rd Cyber-Physical Systems Symposium"
 publication_short = ""
 
 # Abstract.
-abstract = "We propose a novel unsupervised scene flow prediction method that outperforms existing geometry based and learning based (supervised or unsupervised) methods. We show that our method outperforms state of the art learning based methods like Flownet3D++ on standard datasets like KITTI and demonstrate its effectiveness on self collected simulated and real world datasets for autonomous navigation. We further showed that our method can be used for improved performance for SLAM in dynamic environment."
+abstract = "Precise localization of slow moving Unmanned Ground Vehicle or UGV in dynamic environments is still and open problem, limiting the adoptability of such self driving systems in crowded environments like manufacturing factories. We propose a novel grid based pose search algorithm which seeks to find the pose corresponding to maximum scan matching score in a discrete grid. We show that our approach significantly reduces the localization drift compared to existing approaches and creates sharper walls/3D structures in the generated map."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -76,7 +76,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image adapted from [Just Go with the Flow](https://arxiv.org/abs/1912.00497)"
+  # caption = "Image adapted from [Just Go with the Flow](https://arxiv.org/abs/1912.00497)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

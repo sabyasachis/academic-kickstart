@@ -4,7 +4,7 @@ title: Continual Learning for Sequential Data Streaming
 event: EEML Summer School
 event_url: https://www.eeml.eu/
 
-location: online
+location: Online
 # address:
 #  street: 450 Serra Mall
 #   city: Stanford

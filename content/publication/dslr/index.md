@@ -53,19 +53,19 @@ tags = ["Deep Learning", "Computer Vision", "Generative Modelling", "3D/LiDAR", 
 # slides = "example-slides"
 
 # Links (optional).
-url_pdf = "DSLR_paper.pdf"
+url_pdf = "./publication/dslr/DSLR_paper.pdf"
 url_preprint = "https://arxiv.org/abs/2105.12774"
 url_code = "https://github.com/dslrproject/dslr/"
 url_dataset = "https://github.com/dslrproject/dslr/tree/master/Data"
 url_project = "https://dslrproject.github.io/dslr/"
-url_slides = "DSLR_slides.pdf"
+url_slides = "https://docs.google.com/presentation/d/1N-szoZH-U69XdS0JrnPoKTwRqe24sHQWyYdimfxPwNo/edit?usp=sharing"
 url_video = "https://www.youtube.com/watch?v=Mi8DNw6F5Mk&t=1s&ab_channel=PRASHANTKUMARPRASHANTKUMAR"
 url_poster = "DSLR_poster.pdf"
 url_source = ""
 
 # Custom links (optional).
 # For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Appendix PDF", url = "DSLR_appendix.pdf"}, {name="AAAI Conference", url="https://ojs.aaai.org/index.php/AAAI/article/view/16278"}, {name="Results Video", url="https://www.youtube.com/watch?v=xj_JA_Xk-xM&ab_channel=SabyasachiSahoo"}, {name="Teaser Video", url="https://www.youtube.com/watch?v=hHgiC0m5ee0&t=1s"}, {name="Twitter Thread", url="https://twitter.com/saby_tweets/status/1354064595665571840"}]
+links = [{name = "Appendix PDF", url = "./publication/dslr/DSLR_appendix.pdf"}, {name="AAAI Conference", url="https://ojs.aaai.org/index.php/AAAI/article/view/16278"}, {name="Results Video", url="https://www.youtube.com/watch?v=xj_JA_Xk-xM&ab_channel=SabyasachiSahoo"}, {name="Teaser Video", url="https://www.youtube.com/watch?v=hHgiC0m5ee0&t=1s"}, {name="Twitter Thread", url="https://twitter.com/saby_tweets/status/1354064595665571840"}]
 # ,{name = "Poster (earlier version)", url = "PosterA0.pdf"}]
 
 # Does this page contain LaTeX math? (true/false)

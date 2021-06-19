@@ -3,7 +3,7 @@ title = "XraySetu : AI driven Xray Interpretation for Doctors via WhatsApp"
 date = 2021-06-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Suchit Jain", "Santosh Shet", "Siva Teja Kakileti", "Chiranjib Bhattacharyya", "Geetha Manjunath"]
+authors = ["admin", "Suchit Jain", "Santosh Shet", "Rachit Shah", "Siva Teja Kakileti", "Chiranjib Bhattacharyya", "Geetha Manjunath"]
 
 # Publication type.
 # Legend:

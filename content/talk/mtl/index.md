@@ -3,7 +3,7 @@ title: Reviewing Multi Task Learning
 # event:
 # event_url:
 
-location: online
+location: Online
 # address:
 #  street: 450 Serra Mall
 #   city: Stanford

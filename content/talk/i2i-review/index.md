@@ -3,7 +3,7 @@ title: Review of Image to Image Translation - Methods and Applications
 # event:
 # event_url:
 
-# location: Ati Motors
+location: Online
 # address:
 #  street: 450 Serra Mall
 #   city: Stanford

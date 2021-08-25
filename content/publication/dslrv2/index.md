@@ -1,9 +1,9 @@
 +++
 title = "Unpaired LiDAR to LiDAR translation"
-date = 2021-06-11T00:00:00
+date = 2021-08-25T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Siddharth Sanghavi", "Tezuesh Varshney", "Chiranjib Bhattacharyya"]
+authors = ["Siddharth Sanghavi", "Tezuesh Varshney", "admin", "Chiranjib Bhattacharyya"]
 
 # Publication type.
 # Legend:

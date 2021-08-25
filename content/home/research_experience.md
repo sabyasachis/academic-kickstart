@@ -18,20 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-# [[experience]]
-#   title = "Research Assistant"
-#   company = "MILA and Université Laval"
-#   company_url = "https://mila.quebec/en/"
-#   location = "Quebec City"
-#   date_start = "2021-08-30"
-#   date_end = ""
-#   description = """
-#   Advisor : [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/english.html), [MILA](https://mila.quebec/en/) & [Université Laval](https://www.ulaval.ca/en)
-#   Co-Advisor : [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), [INRIA](https://www.inria.fr/en) & [Université Côte d'Azur](https://univ-cotedazur.eu/)
+[[experience]]
+  title = "Research Assistant"
+  company = "MILA and Université Laval"
+  company_url = "https://mila.quebec/en/"
+  location = "Quebec City"
+  date_start = "2021-08-30"
+  date_end = ""
+  description = """
+  Advisors : [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), [MILA](https://mila.quebec/en/) & [Université Laval](https://www.ulaval.ca/en) and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), [INRIA](https://www.inria.fr/en) & [Université Côte d'Azur](https://univ-cotedazur.eu/)
 
-#   - Broadly work on developing robust machine learning systems for autonomous driving systems.
-#   - Funded by [DEEL](https://www.deel.ai/) project.
-#   """
+  - Broadly work on developing robust machine learning systems for autonomous driving systems.
+  - Funded by [DEEL](https://www.deel.ai/) project.
+  """
 
 [[experience]]
   title = "Research Associate"
@@ -39,16 +38,16 @@ date_format = "Jan 2006"
   company_url = "https://mllab.csa.iisc.ac.in/"
   location = "Bangalore"
   date_start = "2019-02-18"
-  date_end = ""
+  date_end = "2021-08-29"
   description = """
   Advisor : [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/)
 
-  - Broadly work on unsupervised learning (generative models, disentanglement, domain adaptation), explainable models, AI in healthcare (disease classification/segmentation), and robotics (LiDAR, SLAM).
+  - Broadly worked on unsupervised learning (generative models, disentanglement, domain adaptation), explainable models, AI in healthcare (disease classification/segmentation), and robotics (LiDAR, SLAM).
   - Led and deployed research projects like [DSLR](https://dslrproject.github.io/dslr/) on a self-driving robot and [XraySetu](https://www.xraysetu.com/), an Xray based automatic report generation tool for doctors.
-  - Collaborate with [Prof. Soma Biswas](http://www.ee.iisc.ac.in/people/faculty/soma.biswas/index.html), [Dr. Vinay V](https://scholar.google.co.in/citations?user=LF3QB7YAAAAJ&hl=en), and [Dr. Geetha Manjunath](https://scholar.google.co.in/citations?user=4kBTdNgAAAAJ&hl=en) for some of these projects.
+  - Collaborated with [Prof. Soma Biswas](http://www.ee.iisc.ac.in/people/faculty/soma.biswas/index.html), [Dr. Vinay V](https://scholar.google.co.in/citations?user=LF3QB7YAAAAJ&hl=en), and [Dr. Geetha Manjunath](https://scholar.google.co.in/citations?user=4kBTdNgAAAAJ&hl=en) for some of these projects.
   - Most of these projects are funded by [Tata Motors](https://www.tatamotors.com/), [Ati Motors](https://www.atimotors.com/), [Niramai](https://www.niramai.com/), and [ARTPARK](https://www.artpark.in/).
-  - Conduct and  deliver talks on latest machine learning and autonomous navigation research papers. ([youtube](https://www.youtube.com/playlist?list=PLbBjZEwyU7W3lb0U0ZRA95QoKHrh4shX2))
-  - Work with Project Associates, Masters, and PhD students. Also, mentor several research interns.
+  - Conducted and  delivered talks on latest machine learning and autonomous navigation research papers. ([youtube](https://www.youtube.com/playlist?list=PLbBjZEwyU7W3lb0U0ZRA95QoKHrh4shX2))
+  - Mentored masters students, project-assistants and research interns.
   """
 
 [[experience]]

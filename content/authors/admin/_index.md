@@ -10,18 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Machine Learning Lab
-  url: https://mllab.csa.iisc.ac.in/
-- name: Computer Science and Automation
-  url: https://www.csa.iisc.ac.in/
-- name: Indian Institute of Science, Bangalore
-  url: "https://iisc.ac.in/"
-- name: ARTPARK
-  url: "https://www.artpark.in/"
+- name: MILA
+  url: "https://mila.quebec/en/"
+- name: Intelligence and Data Institute (IID)
+  url: "https://iid.ulaval.ca/"
+- name: Computer Vision and Systems Lab
+  url: "http://vision.gel.ulaval.ca/en/index.php"
+- name: Electrical Engineering and Computer Engineering Department
+  url: "https://www.gelgif.ulaval.ca/"
+- name: Université Laval
+  url: "https://www.ulaval.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include deep learning, AI for healthcare and robotics.
@@ -33,9 +35,9 @@ interests:
 
 education:
   courses:
-  # - course: Doctor of Philosophy
-  #   institution: MILA & Université Laval
-  #   year: 2021 - Present
+  - course: Doctor of Philosophy
+    institution: MILA & Université Laval
+    year: 2021 - Present
   - course: Master of Technology
     institution: Indian Institute of Science, Bangalore
     year: 2014 - 2016
@@ -84,17 +86,16 @@ email: ""
 
 
 user_groups:
-- Machine Learning Lab (ML Lab)
-- Robert Bosch Centre for Cyber Physical Systems (RBCCPS)
-- Ati Motors
-- Tata Motors
+- MILA
+- Computer Vision Lab
+- IID
+- Université Laval
 ---
 
-I am a Research Associate in Machine Learning Lab in Indian Institute of Science, Bangalore advised by [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/). I am also affiliated to ARTPARK as a Consultant.
+I am a Ph.D. student at MILA and Université Laval. I am very fortunate to be advised by [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/), MILA & Université Laval and [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA & Université Côte d'Azur. I am also affiliated to ARTPARK as a Consultant.
 
-I will be joining as a Ph.D. student at MILA and Université Laval in fall 2021 under [Prof. Christian Gagné](http://vision.gel.ulaval.ca/~cgagne/english.html), MILA & Université Laval. I will also be co-advised by [Prof. Frédéric Precioso](https://www.i3s.unice.fr/~precioso/), INRIA & Université Côte d'Azur.
 
 My research interests include generative models, model explainability, medical imaging, LiDAR/3D computer vision and autonomous vehicles. I am currently working on unsupervised learning (generative models, disentanglement, domain adaptation), explainable models, AI for healthcare (disease classification/ segmentation) and robotics (LiDAR, SLAM). For more information, check out my [Research Works](/publication) or [Explore by Keywords](/#tags) below.
 
 
-I also regularly organize talks for ML/Autonomous Navigation Paper Reading Group ([youtube](https://www.youtube.com/playlist?list=PLbBjZEwyU7W3lb0U0ZRA95QoKHrh4shX2)) and work part time as Research Mentor at [SHARE Labs](https://sharelabs.in/). Prior to this, I have worked on Computer Vision and Natural Language Processing research projects at [Donut Research Labs](https://icecreamlabs.com/) and have worked on large software codebases at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.
+I am also part time Research Mentor at [SHARE Labs](https://sharelabs.in/). Previously, I was Research Associate in ML Lab, IISc Bangalore, under [Prof. Chiranjib Bhattacharyya](https://www.csa.iisc.ac.in/~chiru/).  Prior to this, I have worked on Computer Vision and Natural Language Processing research projects at [Donut Research Labs](https://icecreamlabs.com/) and have worked on large software codebases at [NVIDIA](https://www.nvidia.com/en-in/), Bangalore.

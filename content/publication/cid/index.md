@@ -3,7 +3,7 @@ title = "Improving Automatic Concept Extraction on Chest X-Rays"
 date = 2021-06-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "Rachit Shah", "Abhinav Jain", "Chiranjib Bhattacharyya"]
+authors = ["Rachit Shah", "admin", "Abhinav Jain", "Chiranjib Bhattacharyya"]
 
 # Publication type.
 # Legend:

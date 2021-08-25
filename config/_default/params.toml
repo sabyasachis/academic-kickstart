@@ -86,11 +86,11 @@ phone = "+91-8762245091"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Robert Bosch Center for Cyber Physical Systems, Indian Institute of Science - Bangalore", city = "Bangalore", region = "KA", postcode = "560012", country = "India", country_code = "IN"}
+# address = {street = "Robert Bosch Center for Cyber Physical Systems, Indian Institute of Science - Bangalore", city = "Bangalore", region = "KA", postcode = "560012", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "13.013834", longitude = "77.570170"}
+coordinates = {latitude = "46.781976", longitude = "-71.274476"}
 
 # Directions for visitors to locate you.
 # directions = "Come to SID Building inside IISc, take the stairs to 3rd floor to RBCCPS center."
